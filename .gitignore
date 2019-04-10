@@ -1,0 +1,3 @@
+ # exclude everything suffix with mp4 & json
+ *.mp4
+ *.json
