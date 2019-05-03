@@ -1,9 +1,0 @@
-name: CS6476
-dependencies:
-- python=3.5
-- matplotlib=3.0.0
-- numpy=1.15.2
-- scipy=1.1.0
-- nb_conda
-- pip:
-        - opencv-contrib-python==4.0.0.21
